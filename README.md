@@ -28,6 +28,7 @@ https://user-images.githubusercontent.com/96587699/208317133-5a7e7c24-610c-4e24-
 </tr>
 </table>
 </div>
+
 - Uygulama 3sn'lik LaunchScreen sonrasında Onboarding Ekranı ile açılır.
 - Onboarding ekranı 3 sayfadan oluşur. Sayfalar CollectionView'de Horizontal olarak yönetilir. İster kaydırılarak, ister next butonu ile sayfalar ilerletilebilir.
 - Son sayfada buton "Get started" olarak değiştirilerek uygulamanın ilk Tab'ı olan Games'e yönlendirme yapılır.
