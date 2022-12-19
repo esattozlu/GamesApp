@@ -191,8 +191,3 @@ https://user-images.githubusercontent.com/96587699/208317133-5a7e7c24-610c-4e24-
 </tr>
 </table>
 </div>
-
-## Pragmatic Programmer & Clean Code
-- Pragmatic programmer ve Clean Code özetleri eklenmiştir.
-- Commit tarihlerine bakmak için repomu inceleyebilirsiniz.
-- https://github.com/esattozlu?tab=repositories
